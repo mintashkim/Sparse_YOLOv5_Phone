@@ -1,0 +1,6 @@
+names: ['cellphone', 'person']
+nc: 2
+depth_multiple: 0.33
+width_multiple: 0.25
+train: dataset_3/train/images
+val: dataset_3/val/images
