@@ -1,0 +1,35 @@
+/* 확인, 취소 버튼 */
+QPushButton#m_btnYes, #m_btnNo {
+    background-color: rgb(255, 255, 255);
+    border-radius : 4px;
+    border: 1px solid rgb(218, 218, 218);
+    font: 10px "Malgun Gothic";
+}
+QPushButton#m_btnYes:hover, #m_btnNo:hover {
+    background-color: rgb(240, 240, 240);
+}
+QPushButton#m_btnYes:pressed, #m_btnNo:pressed {
+    background-color: rgb(211, 211, 211);
+}
+
+/* 확인 창 frame */
+QFrame#m_sFrame {
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    border: 1px solid rgb(218, 218, 218);
+}
+
+/* 확인 창 그림자 */
+QFrame#m_sFrame_shadow {
+    /* image: url(':/images/Common/bg_msgbox_shadow.png'); */
+}
+
+/* 확인 창 문구1 */
+QLabel#m_lbQuestion {
+    font: 14px "Malgun Gothic";
+}
+
+/* 확인 창 문구2 */
+QLabel#m_lbQuestion2 {
+    font: 10px "Malgun Gothic";
+}

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Console/ico_Tray.png</file>
+        <file>images/Common/bg_msgbox_shadow.png</file>
+        <file>images/Common/ico_window.ico</file>
+        <file>images/Common/MsgBox.qss</file>
+        <file>images/Console/ico_Exit.png</file>
+        <file>lang/abgres_en.qm</file>
+        <file>lang/abgres_ko.qm</file>
+        <file>images/Console/PersonAbsence.png</file>
+        <file>images/Console/PhonePresence.png</file>
+    </qresource>
+</RCC>
