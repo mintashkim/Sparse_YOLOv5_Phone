@@ -1,0 +1,4 @@
+#define FILEVER 1,0,0,99999
+#define PRODUCTVER 1,0,0,99999
+#define STRFILEVER "1, 0, 0, 99999"
+#define STRPRODUCTVER "1, 0, 0, 99999"
